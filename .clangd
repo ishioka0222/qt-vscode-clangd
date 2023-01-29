@@ -1,0 +1,7 @@
+CompileFlags:
+  Add: 
+    - "-std=c++17"
+    - "--include-directory=C:\\Qt\\6.4.2\\msvc2019_64\\include"
+    - "--include-directory=C:\\Qt\\6.4.2\\msvc2019_64\\include\\QtGui"
+    - "--include-directory=C:\\Qt\\6.4.2\\msvc2019_64\\include\\QtCore"
+    - "--include-directory=C:\\Qt\\6.4.2\\msvc2019_64\\include\\QtWidgets"
